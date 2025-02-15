@@ -1,4 +1,4 @@
-![logo]([https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif))
+![logo](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif))
 <h1 align="center">Hi 👋, I'm Vishwajeet Kumar</h1>
 <h3 align="center">A passionate Software Devloper from India</h3>
 
