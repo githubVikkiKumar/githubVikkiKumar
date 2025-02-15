@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif))
+![logo](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Vishwajeet Kumar</h1>
 <h3 align="center">A passionate Software Devloper from India</h3>
 
