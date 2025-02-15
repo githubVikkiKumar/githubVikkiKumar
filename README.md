@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advance java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RaviKumarpatel400](https://github.com/RaviKumarpatel400)
+- 👨‍💻 All of my projects are available at [https://github.com/RaviKumarpatel400](https://github.com/githubVikkiKumar)
 
 - 📫 How to reach me **220101120293@cutm.ac.in**
 
